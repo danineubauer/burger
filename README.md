@@ -1,4 +1,4 @@
-# burger
+# Burger App
 | Created by Danielle Neubauer, UC Berkeley Coding BootCamp 2019/20 - 
 
 ## What is this app?
